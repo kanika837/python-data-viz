@@ -12,6 +12,7 @@ It demonstrates how electric vehicles have grown in popularity over the past few
 ![Image](https://github.com/user-attachments/assets/1b689a46-b7f3-4023-9d6f-8fd8f1624abc)
 
 
+
  Advantages
 
  Environmental Friendly: Zero tailpipe emissions mean cleaner air and reduced 
@@ -22,6 +23,7 @@ popular due to affordability and improving infrastructure.
 
  Less Running Cost: Significantly cheaper to "refuel" (charge) and require 
 minimal maintenance, saving money.
+
 
 
 Disadvantages
