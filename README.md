@@ -1,5 +1,6 @@
 # python-data-viz
-test
+
+![Image](https://github.com/user-attachments/assets/4fc6fc32-51fd-4a32-b9a6-e4ec5ad5a0fa)
 
 
 Electric Vehicle sales State wise in India
