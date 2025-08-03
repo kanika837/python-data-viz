@@ -36,7 +36,7 @@ It contains the following key features:
 
 
 
- Advantages
+# Advantages
 
 The advantages of electric vehicles:
 
@@ -50,7 +50,7 @@ The advantages of electric vehicles:
 
 
 
-Disadvantages
+# Disadvantages
 
 The disadvantages of electric vehicles:
 
