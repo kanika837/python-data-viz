@@ -38,7 +38,7 @@ It contains the following key features:
 
  Advantages
 
-the advantages of electric vehicles:
+The advantages of electric vehicles:
 
  * Cheaper Maintenance: This is represented by the wrench and percentage symbol. Electric vehicles have fewer moving parts compared to internal combustion engine cars, which translates to less frequent and less expensive maintenance. There are no oil changes, spark plugs, or complex exhaust systems to worry about.
    
@@ -52,3 +52,12 @@ the advantages of electric vehicles:
 
 Disadvantages
 
+The disadvantages of electric vehicles:
+
+ * Priced Higher: This is shown by the car icon with coins underneath it. The initial purchase price of an electric vehicle is often higher than a comparable gasoline-powered car. The cost of the battery is a major factor in this higher price.
+   
+ * Not Enough Charging Stations: The icon with a charging station and a charging plug with an "X" on it represents this point. The charging infrastructure for electric vehicles is not as widespread as gas stations, which can lead to range anxiety and difficulty finding a place to charge, especially on long-distance trips or in rural areas.
+   
+ * Recharging Takes Long: The icon with a battery and a clock illustrates this disadvantage. Unlike the few minutes it takes to fill up a gas tank, recharging an electric car, even with a fast charger, can take a significant amount of time, from 20-30 minutes to several hours depending on the charging level and type of charger.
+   
+ * Short Traveling Distance: This is represented by the two location pins with a short, crossed-out line between them. Many electric vehicles have a shorter driving range on a single charge compared to the distance a gasoline car can travel on a full tank of gas. This can be a limiting factor for long road trips.
