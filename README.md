@@ -38,23 +38,17 @@ It contains the following key features:
 
  Advantages
 
- Environmental Friendly: Zero tailpipe emissions mean cleaner air and reduced 
-carbon footprint.
+the advantages of electric vehicles:
 
- High Mobility in Tier-2, Tier-3 Cities: Ideal for commutes and increasingly 
-popular due to affordability and improving infrastructure.
-
- Less Running Cost: Significantly cheaper to "refuel" (charge) and require 
-minimal maintenance, saving money.
+ * Cheaper Maintenance: This is represented by the wrench and percentage symbol. Electric vehicles have fewer moving parts compared to internal combustion engine cars, which translates to less frequent and less expensive maintenance. There are no oil changes, spark plugs, or complex exhaust systems to worry about.
+   
+ * Reduced Emissions: The icon of a car next to a tree and a cloud with an "X" through it indicates that electric cars produce zero tailpipe emissions. This is a significant advantage for air quality, especially in urban areas.
+   
+ * Reduced Noise: The image shows a car next to a speaker with a slash through it. Electric cars are significantly quieter than gasoline-powered cars because they don't have a combustion engine. This contributes to reduced noise pollution.
+   
+ * Safer to Drive: This is represented by a car with a shield icon. Electric vehicles often have a lower center of gravity due to the heavy battery pack mounted low in the chassis, which can improve handling and reduce the risk of rollovers. They also have a more rigid body structure and crumple zones designed to protect occupants in a collision.
 
 
 
 Disadvantages
 
- Electric vehicles often have a high upfront cost, and they don't seem to fetch a good 
-price in the second-hand market either."
-
- Limited Charging Infrastructure: The availability of public charging stations, 
-especially fast chargers, is still insufficient across India. This creates "range 
-anxiety" and inconvenience for EV owners, making long-distance travel 
-challenging compared to the widespread network of petrol pumps.
