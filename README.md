@@ -4,7 +4,7 @@
 
 
 
-Introduction
+
 This project provides a detailed analysis of electric vehicle (EV) adoption trends across India, utilizing a meticulously curated dataset. The primary goal is to empower financial analysts, data scientists, and researchers with the necessary insights to understand the evolving EV market in the country. 
 
 The dataset, which was sourced from the Clean Mobility Shift website and preprocessed for immediate use, is versatile and can be used for geographic market segmentation, trend analysis, and predictive modeling.
